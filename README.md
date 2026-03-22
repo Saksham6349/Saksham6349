@@ -15,4 +15,13 @@ B.Tech CSE @ VIT Vellore | Full-stack developer & AI enthusiast. I build product
 ---
 [![](https://visitcount.itsvg.in/api?id=Saksham6349&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [MEDPRO](https://github.com/Saksham6349/medpro) | FFmpeg media processor — thumbnail, compress, audio | FastAPI, Docker, Railway |
+| [Resume Roaster](https://github.com/Saksham6349/resume-roaster-final) | AI resume analyzer SaaS with LLM pipeline | Llama 3.3, Groq, MongoDB |
+| [AgriAssist SMS](https://github.com/Saksham6349/AgriAssistSMS) | Multilingual AI platform for farmers via SMS | LLM API, Node.js |
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
